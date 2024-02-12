@@ -1,16 +1,15 @@
-### Hi there 👋
+# ¡Hola, soy Rolando! 👋
+Desarrollador Web FullStack con JavaScript. Mi pasión por la programación me mantiene activo como autodidacta aprendiendo todas las áreas que implican el desarrollo de un proyecto. En el futuro no descarto formarme en áreas como Data Science o Blockchain.
 
-<!--
-**rolando22/rolando22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologías
+- Lenguajes de programación: JavaScript, TypeScript.
+- Tecnologías Frontend: HTML5, CSS3, React, Redux, Angular, SASS, Bootstrap, TailwindCSS.
+- Tecnologías Backend: NodeJS, Express, Sequelize, Mongoose.
+- DBA: MongoDB, MySQL, PostgreSQL.
+- Infraestructura: GitHub, GitLab, Firebase, Vercel, Docker.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Cómo contactarme
+- LinkedIn: [linkedin.com/in/rolando-rafael-casta%C3%B1on-fern%C3%A1ndez-973917252/](https://https://www.linkedin.com/in/rolando-rafael-casta%C3%B1on-fern%C3%A1ndez-973917252/)
+- Correo electrónico: [rolando2207@gmail.com](mailto:carosartini.cs@gmail.com)
+- Portfolio: https://rolando22.github.io/mi-portfolio/
+- CV: https://rolando22.github.io/mi_cv/
