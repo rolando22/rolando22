@@ -9,7 +9,7 @@ Desarrollador Web FullStack con JavaScript. Mi pasión por la programación me m
 - Infraestructura: GitHub, GitLab, Firebase, Vercel, Docker.
 
 ## 📫 Cómo contactarme
-- LinkedIn: [linkedin.com/in/rolando-rafael-casta%C3%B1on-fern%C3%A1ndez-973917252/](https://https://www.linkedin.com/in/rolando-rafael-casta%C3%B1on-fern%C3%A1ndez-973917252/)
-- Correo electrónico: [rolando2207@gmail.com](mailto:carosartini.cs@gmail.com)
+- LinkedIn: [linkedin.com/in/rolando-rafael-casta%C3%B1on-fern%C3%A1ndez-973917252/](https://www.linkedin.com/in/rolando-rafael-casta%C3%B1on-fern%C3%A1ndez-973917252/)
+- Correo electrónico: [rolando2207@gmail.com](mailto:rolando2207@gmail.com)
 - Portfolio: https://rolando22.github.io/mi-portfolio/
 - CV: https://rolando22.github.io/mi_cv/
